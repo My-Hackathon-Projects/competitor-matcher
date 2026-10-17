@@ -1,5 +1,13 @@
 # Competitor Matcher
 
+| | |
+|---|---|
+| Event | Anthropic hackathon at ETH Zurich |
+| Result | 2nd place, Zenline AI track |
+| Date | March 2026 |
+| Type | Team project |
+| Team | Rishabh Tiwari and Florian Sprick |
+
 A production-ready **competitor price intelligence platform** for Austrian electronics retailers. Ask questions in plain language, upload your product catalog, and instantly see how competitors across 6 major retailers are pricing the same products.
 
 ---

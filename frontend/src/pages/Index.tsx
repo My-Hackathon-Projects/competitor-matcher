@@ -282,7 +282,7 @@ const Index = () => {
               <div className="space-y-2.5">
                 <div>
                   <p className="font-sans text-sm font-medium">Rishabh Tiwari</p>
-                  <p className="font-sans text-xs text-muted-foreground">rishtiwari98@gmail.com</p>
+                  <p className="font-sans text-xs text-muted-foreground">rishabhworks98@gmail.com</p>
                 </div>
                 <div>
                   <p className="font-sans text-sm font-medium">Florian Sprick</p>
